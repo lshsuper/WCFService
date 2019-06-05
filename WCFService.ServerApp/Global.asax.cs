@@ -17,9 +17,9 @@ namespace OrderServer
         {
             var builder = new ContainerBuilder();
          
-            var repository = Assembly.Load("Order.Repository").GetTypes().Where(o => o.Name.EndsWith("Repository")).ToArray();
+            var repository = Assembly.Load("WCFService.Repository").GetTypes().Where(o => o.Name.EndsWith("Repository")).ToArray();
             builder.RegisterTypes(repository).AsImplementedInterfaces();
-            var services = Assembly.Load("Order.Application").GetTypes().Where(o => o.Name.EndsWith("Service")).ToArray();
+            var services = Assembly.Load("WCFService.Application").GetTypes().Where(o => o.Name.EndsWith("Service")).ToArray();
             builder.RegisterTypes(services).AsImplementedInterfaces();
             var container=builder.Build();
             AutofacHostFactory.Container = container;
