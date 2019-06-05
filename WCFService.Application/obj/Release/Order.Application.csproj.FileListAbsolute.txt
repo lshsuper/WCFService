@@ -1,0 +1,9 @@
+C:\Users\mi\source\repos\WCFService\Order.Application\bin\Release\Order.Application.dll
+C:\Users\mi\source\repos\WCFService\Order.Application\bin\Release\Order.Application.pdb
+C:\Users\mi\source\repos\WCFService\Order.Application\bin\Release\Order.Core.dll
+C:\Users\mi\source\repos\WCFService\Order.Application\bin\Release\Order.Core.pdb
+C:\Users\mi\source\repos\WCFService\Order.Application\obj\Release\Order.Application.csprojAssemblyReference.cache
+C:\Users\mi\source\repos\WCFService\Order.Application\obj\Release\Order.Application.csproj.CoreCompileInputs.cache
+C:\Users\mi\source\repos\WCFService\Order.Application\obj\Release\Order.Application.csproj.CopyComplete
+C:\Users\mi\source\repos\WCFService\Order.Application\obj\Release\Order.Application.dll
+C:\Users\mi\source\repos\WCFService\Order.Application\obj\Release\Order.Application.pdb

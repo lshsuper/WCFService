@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+此文件由 Web 项目的发布/打包过程使用。可以通过编辑此 MSBuild 文件
+自定义此过程的行为。为了解与此相关的更多内容，请访问 https://go.microsoft.com/fwlink/?LinkID=208121。 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\websites\orderwcf</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Autofac.dll">
+      <publishTime>03/27/2014 19:34:38</publishTime>
+    </File>
+    <File Include="bin/Autofac.Integration.Wcf.dll">
+      <publishTime>05/24/2018 21:27:04</publishTime>
+    </File>
+    <File Include="bin/Order.Application.dll">
+      <publishTime>06/05/2019 22:35:01</publishTime>
+    </File>
+    <File Include="bin/Order.Application.pdb">
+      <publishTime>06/05/2019 22:35:01</publishTime>
+    </File>
+    <File Include="bin/Order.Core.dll">
+      <publishTime>06/05/2019 22:35:00</publishTime>
+    </File>
+    <File Include="bin/Order.Core.pdb">
+      <publishTime>06/05/2019 22:35:00</publishTime>
+    </File>
+    <File Include="bin/Order.Repository.dll">
+      <publishTime>06/05/2019 22:35:01</publishTime>
+    </File>
+    <File Include="bin/Order.Repository.pdb">
+      <publishTime>06/05/2019 22:35:01</publishTime>
+    </File>
+    <File Include="bin/OrderServer.dll">
+      <publishTime>06/05/2019 23:09:32</publishTime>
+    </File>
+    <File Include="bin/OrderServer.pdb">
+      <publishTime>06/05/2019 23:09:32</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>06/05/2019 22:26:35</publishTime>
+    </File>
+    <File Include="OrderService.svc">
+      <publishTime>06/05/2019 23:08:24</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>06/05/2019 22:06:23</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

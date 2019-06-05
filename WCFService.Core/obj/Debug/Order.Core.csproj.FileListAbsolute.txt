@@ -1,0 +1,6 @@
+C:\Users\mi\source\repos\WCFService\Order.Core\bin\Debug\Order.Core.dll
+C:\Users\mi\source\repos\WCFService\Order.Core\bin\Debug\Order.Core.pdb
+C:\Users\mi\source\repos\WCFService\Order.Core\obj\Debug\Order.Core.csprojAssemblyReference.cache
+C:\Users\mi\source\repos\WCFService\Order.Core\obj\Debug\Order.Core.csproj.CoreCompileInputs.cache
+C:\Users\mi\source\repos\WCFService\Order.Core\obj\Debug\Order.Core.dll
+C:\Users\mi\source\repos\WCFService\Order.Core\obj\Debug\Order.Core.pdb
