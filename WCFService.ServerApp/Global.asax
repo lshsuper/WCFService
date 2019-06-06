@@ -1,1 +1,1 @@
-﻿<%@ Application Codebehind="Global.asax.cs" Inherits="OrderServer.Global" Language="C#" %>
+﻿<%@ Application Codebehind="Global.asax.cs" Inherits="WCFService.ServerApp.Global" Language="C#" %>

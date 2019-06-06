@@ -16,37 +16,61 @@
       <publishTime>05/24/2018 21:27:04</publishTime>
     </File>
     <File Include="bin/Order.Application.dll">
-      <publishTime>06/05/2019 22:35:01</publishTime>
+      <publishTime>06/07/2019 02:21:47</publishTime>
     </File>
     <File Include="bin/Order.Application.pdb">
-      <publishTime>06/05/2019 22:35:01</publishTime>
+      <publishTime>06/07/2019 02:21:47</publishTime>
     </File>
     <File Include="bin/Order.Core.dll">
-      <publishTime>06/05/2019 22:35:00</publishTime>
+      <publishTime>06/07/2019 02:21:46</publishTime>
     </File>
     <File Include="bin/Order.Core.pdb">
-      <publishTime>06/05/2019 22:35:00</publishTime>
+      <publishTime>06/07/2019 02:21:46</publishTime>
     </File>
     <File Include="bin/Order.Repository.dll">
-      <publishTime>06/05/2019 22:35:01</publishTime>
+      <publishTime>06/07/2019 02:21:46</publishTime>
     </File>
     <File Include="bin/Order.Repository.pdb">
-      <publishTime>06/05/2019 22:35:01</publishTime>
+      <publishTime>06/07/2019 02:21:46</publishTime>
     </File>
     <File Include="bin/OrderServer.dll">
-      <publishTime>06/05/2019 23:09:32</publishTime>
+      <publishTime>06/07/2019 02:21:47</publishTime>
     </File>
     <File Include="bin/OrderServer.pdb">
-      <publishTime>06/05/2019 23:09:32</publishTime>
+      <publishTime>06/07/2019 02:21:47</publishTime>
+    </File>
+    <File Include="bin/WCFService.Application.dll">
+      <publishTime>06/07/2019 03:06:02</publishTime>
+    </File>
+    <File Include="bin/WCFService.Application.pdb">
+      <publishTime>06/07/2019 03:06:02</publishTime>
+    </File>
+    <File Include="bin/WCFService.Core.dll">
+      <publishTime>06/07/2019 03:06:02</publishTime>
+    </File>
+    <File Include="bin/WCFService.Core.pdb">
+      <publishTime>06/07/2019 03:06:02</publishTime>
+    </File>
+    <File Include="bin/WCFService.Repository.dll">
+      <publishTime>06/07/2019 03:06:02</publishTime>
+    </File>
+    <File Include="bin/WCFService.Repository.pdb">
+      <publishTime>06/07/2019 03:06:02</publishTime>
+    </File>
+    <File Include="bin/WCFService.ServerApp.dll">
+      <publishTime>06/07/2019 03:06:03</publishTime>
+    </File>
+    <File Include="bin/WCFService.ServerApp.pdb">
+      <publishTime>06/07/2019 03:06:03</publishTime>
     </File>
     <File Include="Global.asax">
-      <publishTime>06/05/2019 22:26:35</publishTime>
+      <publishTime>06/07/2019 02:29:25</publishTime>
     </File>
     <File Include="OrderService.svc">
-      <publishTime>06/05/2019 23:08:24</publishTime>
+      <publishTime>06/07/2019 02:42:09</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>06/05/2019 22:06:23</publishTime>
+      <publishTime>06/07/2019 02:27:14</publishTime>
     </File>
   </ItemGroup>
 </Project>

@@ -1,1 +1,1 @@
-﻿<%@ ServiceHost Language="C#" Debug="true" Service="Order.Core.IService.IOrderService,Order.Core"  Factory="Autofac.Integration.Wcf.AutofacServiceHostFactory, Autofac.Integration.Wcf"  %>
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="WCFService.Core.IService.IOrderService,WCFService.Core"  Factory="Autofac.Integration.Wcf.AutofacServiceHostFactory, Autofac.Integration.Wcf"  %>

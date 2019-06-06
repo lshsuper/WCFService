@@ -8,7 +8,7 @@ using System.Web.SessionState;
 using Autofac;
 using Autofac.Integration.Wcf;
 
-namespace OrderServer
+namespace WCFService.ServerApp
 {
     public class Global : System.Web.HttpApplication
     {

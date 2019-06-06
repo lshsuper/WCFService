@@ -3,3 +3,9 @@ C:\Users\mi\source\repos\WCFService\Order.Core\bin\Debug\Order.Core.pdb
 C:\Users\mi\source\repos\WCFService\Order.Core\obj\Debug\WCFService.Core.csproj.CoreCompileInputs.cache
 C:\Users\mi\source\repos\WCFService\Order.Core\obj\Debug\Order.Core.dll
 C:\Users\mi\source\repos\WCFService\Order.Core\obj\Debug\Order.Core.pdb
+C:\code\WCFService\WCFService.Core\bin\Debug\WCFService.Core.dll
+C:\code\WCFService\WCFService.Core\bin\Debug\WCFService.Core.pdb
+C:\code\WCFService\WCFService.Core\obj\Debug\WCFService.Core.csprojAssemblyReference.cache
+C:\code\WCFService\WCFService.Core\obj\Debug\WCFService.Core.csproj.CoreCompileInputs.cache
+C:\code\WCFService\WCFService.Core\obj\Debug\WCFService.Core.dll
+C:\code\WCFService\WCFService.Core\obj\Debug\WCFService.Core.pdb

@@ -7,3 +7,12 @@ C:\Users\mi\source\repos\WCFService\Order.Application\bin\Debug\Order.Applicatio
 C:\Users\mi\source\repos\WCFService\Order.Application\bin\Debug\Order.Core.dll
 C:\Users\mi\source\repos\WCFService\Order.Application\bin\Debug\Order.Core.pdb
 C:\Users\mi\source\repos\WCFService\Order.Application\obj\Debug\WCFService.Application.csproj.CopyComplete
+C:\code\WCFService\WCFService.Application\bin\Debug\WCFService.Application.dll
+C:\code\WCFService\WCFService.Application\bin\Debug\WCFService.Application.pdb
+C:\code\WCFService\WCFService.Application\bin\Debug\WCFService.Core.dll
+C:\code\WCFService\WCFService.Application\bin\Debug\WCFService.Core.pdb
+C:\code\WCFService\WCFService.Application\obj\Debug\WCFService.Application.csprojAssemblyReference.cache
+C:\code\WCFService\WCFService.Application\obj\Debug\WCFService.Application.csproj.CoreCompileInputs.cache
+C:\code\WCFService\WCFService.Application\obj\Debug\WCFService.Application.csproj.CopyComplete
+C:\code\WCFService\WCFService.Application\obj\Debug\WCFService.Application.dll
+C:\code\WCFService\WCFService.Application\obj\Debug\WCFService.Application.pdb

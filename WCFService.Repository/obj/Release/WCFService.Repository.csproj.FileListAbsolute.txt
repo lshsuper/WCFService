@@ -1,0 +1,9 @@
+C:\code\WCFService\WCFService.Repository\obj\Release\WCFService.Repository.csprojAssemblyReference.cache
+C:\code\WCFService\WCFService.Repository\obj\Release\WCFService.Repository.csproj.CoreCompileInputs.cache
+C:\code\WCFService\WCFService.Repository\obj\Release\WCFService.Repository.csproj.CopyComplete
+C:\code\WCFService\WCFService.Repository\bin\Release\WCFService.Repository.dll
+C:\code\WCFService\WCFService.Repository\bin\Release\WCFService.Repository.pdb
+C:\code\WCFService\WCFService.Repository\bin\Release\WCFService.Core.dll
+C:\code\WCFService\WCFService.Repository\bin\Release\WCFService.Core.pdb
+C:\code\WCFService\WCFService.Repository\obj\Release\WCFService.Repository.dll
+C:\code\WCFService\WCFService.Repository\obj\Release\WCFService.Repository.pdb

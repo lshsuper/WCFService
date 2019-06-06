@@ -1,0 +1,6 @@
+C:\code\WCFService\WCFService.Core\obj\Release\WCFService.Core.csproj.CoreCompileInputs.cache
+C:\code\WCFService\WCFService.Core\bin\Release\WCFService.Core.dll
+C:\code\WCFService\WCFService.Core\bin\Release\WCFService.Core.pdb
+C:\code\WCFService\WCFService.Core\obj\Release\WCFService.Core.csprojAssemblyReference.cache
+C:\code\WCFService\WCFService.Core\obj\Release\WCFService.Core.dll
+C:\code\WCFService\WCFService.Core\obj\Release\WCFService.Core.pdb

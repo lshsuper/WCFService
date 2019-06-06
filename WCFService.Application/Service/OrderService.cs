@@ -1,5 +1,5 @@
-﻿using Order.Core;
-using Order.Core.IService;
+﻿
+
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,11 +7,13 @@ using System.ServiceModel;
 using System.Text;
 using System.Threading.Tasks;
 using WCFService.Core;
+using WCFService.Core.Entity;
 using WCFService.Core.IRepository;
+using WCFService.Core.IService;
 
-namespace Order.Application.Service
+namespace WCFService.Application.Service
 {
-
+    [ServiceBehavior(IgnoreExtensionDataObject = true)]
     public class OrderService : IOrderService
     {
         private readonly IOrderRepository _orderRepository;

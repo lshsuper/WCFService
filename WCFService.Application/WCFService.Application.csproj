@@ -7,8 +7,8 @@
     <ProjectGuid>{7A222E32-2184-43E7-ACD2-38CED7008FF6}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Order.Application</RootNamespace>
-    <AssemblyName>Order.Application</AssemblyName>
+    <RootNamespace>WCFService.Application</RootNamespace>
+    <AssemblyName>WCFService.Application</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
